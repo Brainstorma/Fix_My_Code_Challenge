@@ -4,11 +4,11 @@ Welcome to the 0x01-challenge! This project is designed to help you improve your
 
 Here are the repositories for each task:
 
-- Task 0: [square.py](./0-square.py)
-- Task 1: [user.py](./1-user.py)
-- Task 2: [status_server](./2-status_server)
-- Task 3: [blog](./3-blog)
-- Task 4: [react-blog](./4-react-blog)
+- Task 0: [square.py](./square.py)
+- Task 1: [user.py](./user.py)
+- Task 2: [status_server](./status_server)
+- Task 3: [blog](./blog)
+- Task 4: [react-blog](./react-blog)
 
 ## Tasks
 
